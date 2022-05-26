@@ -1,4 +1,4 @@
-import solver
+
 const 	Discord = require('discord.js'),
 		disbut = require('discord-buttons');// const 	Discord = require('discord.js'),
 		// disbut = require('discord-buttons');
